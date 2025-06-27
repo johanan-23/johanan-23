@@ -8,7 +8,7 @@ I'm a Mechanical Engineering Student (Senior year) at National Engineering Colle
 
 * 🌍  I'm based in Tamil Nadu, India
 * 🖥️  See my portfolio at [www.johanan.in](http://www.johanan.in/)
-* ✉️  You can contact me at [johanan2306@gmail.com](mailto:johanan2306@gmail.com)
+* ✉️  You can contact me at [contact.johanan.in](mailto:contact@johanan.in)
 * 🚀  I'm currently working on [Skillpix](http://www.skillpix.com/)
 * 🧠  I'm learning Machine Learning & DSA
 * 🤝  I'm open to collaborating on New, Novel Technologies
