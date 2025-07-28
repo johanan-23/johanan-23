@@ -4,7 +4,9 @@ Hi 👋🏻. My name is Johanan S. A.
 Mechanical Engineering (Senior year) & Web Developer
 -----------------------------------------------
 
-I'm a Mechanical Engineering Student (Senior year) at National Engineering College, Kovilpatti, Tamil Nadu, India. Even though I'm from a core Engineering discipline, I'm interested in various concepts and technologies! Therefore I decided to learn all the skills necessary for handling the complete Product development life-cycle, which includes, CAD, CAM, CAA, Web Development, DSA, Machine Learning, Electronics, Raspberry Pi, etc. And, this GitHub repository contains the side Projects and main Projects I did in my college days and so on!
+Driven by a multidisciplinary passion for technology and innovation, I have actively pursued skills beyond my core domain to gain a comprehensive understanding of the entire product development lifecycle—from design (CAD, CAM, CAA) to hardware (Electronics, Raspberry Pi) and software (Web Development, Data Structures & Algorithms, Machine Learning).
+
+This GitHub repository showcases a curated collection of my academic and independent projects, reflecting my continuous efforts to bridge engineering principles with modern computational tools.
 
 * 🌍  I'm based in Tamil Nadu, India
 * 🖥️  See my portfolio at [www.johanan.in](http://www.johanan.in/)
