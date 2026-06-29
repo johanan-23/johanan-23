@@ -72,7 +72,6 @@ Currently building **[Skillpix](https://www.skillpix.com/)** — an edtech platf
 <a href="https://www.github.com/johanan-23" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="28" height="28" alt="GitHub"/></a>&nbsp;
 <a href="https://www.linkedin.com/in/johanan23" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" width="28" height="28" alt="LinkedIn"/></a>&nbsp;
 <a href="https://www.x.com/johanan_offl" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" width="28" height="28" alt="X"/></a>&nbsp;
-<a href="https://www.dev.to/johanan23" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" width="28" height="28" alt="Dev.to"/></a>&nbsp;
 <a href="https://www.stackoverflow.com/users/19985610/johanan-s-a" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow-dark.svg" width="28" height="28" alt="Stack Overflow"/></a>&nbsp;
 <a href="http://www.instagram.com/johanan_offl" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" width="28" height="28" alt="Instagram"/></a>
 </p>
