@@ -39,7 +39,9 @@ Currently building **[Skillpix](https://www.skillpix.com/)** — an edtech platf
 ![Cloudflare D1](https://img.shields.io/badge/Cloudflare_D1-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-<img src="https://raw.githubusercontent.com/johanan-23/johanan-23/main/tanstack.svg" height="20" alt="TanStack Start Logo" style="background:#ffffff; padding:4px 8px; border-radius:6px; vertical-align:middle;"/>
+
+#### React Metaframework of Choice
+<img src="/tanstack.svg" height="20" alt="TanStack Start Logo" style="display:block;" />
 
 ### ML & Data
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
