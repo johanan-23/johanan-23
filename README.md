@@ -17,8 +17,6 @@
 
 M.E. Mechatronics @ Anna University (MIT Chromepet) · B.E. Mechanical Engineering, NEC Kovilpatti.
 
-I think in control loops, FEA meshes, and kinematic chains — then context-switch to designing edge-deployed full-stack platforms on Cloudflare Workers. My work spans deep learning fault diagnostics on rotating machinery (IEEE-indexed), ISRO IPRC propulsion systems, and production web apps serving real users.
-
 Currently building **[Skillpix](https://www.skillpix.com/)** — an edtech platform architected on TanStack Start + Cloudflare D1/KV/Workers.
 
 ---
@@ -59,9 +57,9 @@ Currently building **[Skillpix](https://www.skillpix.com/)** — an edtech platf
 
 | | |
 |---|---|
-| 📄 **IEEE Publication** | Deep learning-based gear fault diagnosis — indexed & published |
+| 📄 **IEEE Publication** | A Scalable AI System for Livestock Monitoring with Real-Time Threat Detection and Alerts — indexed & published |
 | 🚀 **ISRO IPRC Intern** | Propulsion systems research, Mahendragiri |
-| 🌐 **Edge-native Apps** | TanStack Start · Cloudflare Workers/D1/KV in production |
+| 🌐 **Edge-native Apps** | TanStack Start · Cloudflare Workers/D1/R2 in production |
 | 🎓 **M.E. Mechatronics** | Anna University, MIT Chromepet (2026–28) |
 
 ---
