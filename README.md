@@ -66,18 +66,6 @@ Currently building **[Skillpix](https://www.skillpix.com/)** — an edtech platf
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=johanan-23&show_icons=true&hide=prs,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=true" alt="GitHub Stats" height="160"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johanan-23&langs_count=8&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=true&layout=compact" alt="Top Languages" height="160"/>
-
-</div>
-
----
-
 ## Connect
 
 <p align="left">
