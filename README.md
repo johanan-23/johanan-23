@@ -57,7 +57,7 @@ Currently building **[Skillpix](https://www.skillpix.com/)** — an edtech platf
 
 | | |
 |---|---|
-| 📄 **IEEE Publication** | A Scalable AI System for Livestock Monitoring with Real-Time Threat Detection and Alerts — indexed & published |
+| 📄 **IEEE Publication** | <a href="https://doi.org/10.1109/ICVADV67766.2026.11470411">A Scalable AI System for Livestock Monitoring with Real-Time Threat Detection and Alerts</a> — indexed & published |
 | 🚀 **ISRO IPRC Intern** | Propulsion systems research, Mahendragiri |
 | 🌐 **Edge-native Apps** | TanStack Start · Cloudflare Workers/D1/R2 in production |
 | 🎓 **M.E. Mechatronics** | Anna University, MIT Chromepet (2026–28) |
