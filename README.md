@@ -35,7 +35,7 @@ Currently building **[Skillpix](https://www.skillpix.com/)** — an edtech platf
 ### Web & Infrastructure
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-<img src="https://raw.githubusercontent.com/johanan-23/johanan-23/main/tanstack.svg" height="20" alt="TanStack Start"/>
+<img src="https://raw.githubusercontent.com/johanan-23/johanan-23/main/tanstack.svg" height="20" alt="TanStack Start Logo"/>
 ![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Cloudflare D1](https://img.shields.io/badge/Cloudflare_D1-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
