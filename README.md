@@ -4,8 +4,6 @@
 
 **Mechatronics Engineer · Full-Stack Developer · IEEE Author**
 
-*Building at the intersection of physical systems and edge-native web infrastructure*
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-johanan.in-0891b2?style=flat-square&logo=safari&logoColor=white)](https://www.johanan.in)
 [![Email](https://img.shields.io/badge/Email-contact@johanan.in-0891b2?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@johanan.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-johanan23-0891b2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johanan23)
@@ -37,7 +35,7 @@ Currently building **[Skillpix](https://www.skillpix.com/)** — an edtech platf
 ### Web & Infrastructure
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TanStack](https://img.shields.io/badge/TanStack_Start-FF4154?style=flat-square)
+<img src="https://raw.githubusercontent.com/johanan-23/johanan-23/main/tanstack.svg" height="20" alt="TanStack Start"/>
 ![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Cloudflare D1](https://img.shields.io/badge/Cloudflare_D1-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
