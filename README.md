@@ -15,7 +15,7 @@
 
 ## About
 
-M.E. Mechatronics @ Anna University (MIT Chromepet)
+M.E. Mechatronics @ Anna University (MIT Campus)
 
 Currently building **[Skillpix](https://www.skillpix.com/)** — an edtech platform architected on TanStack Start + Cloudflare D1/KV/Workers.
 
